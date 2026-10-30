@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dcfce7"/><stop offset="1" stop-color="#bfdbfe"/></linearGradient><linearGradient id="app" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16a34a"/><stop offset="1" stop-color="#0f766e"/></linearGradient></defs>
+  <rect width="900" height="500" fill="url(#bg)"/><circle cx="165" cy="117" r="81" fill="#fff" opacity=".45"/><circle cx="745" cy="389" r="122" fill="#fff" opacity=".4"/>
+  <rect x="323" y="44" width="253" height="422" rx="38" fill="#fff" opacity=".8"/><rect x="336" y="59" width="227" height="392" rx="29" fill="#f8fafc"/>
+  <rect x="404" y="70" width="90" height="12" rx="6" fill="#d1d5db"/><text x="450" y="132" fill="#0f172a" font-family="Arial,sans-serif" font-size="22" font-weight="700" text-anchor="middle">recyclo</text>
+  <circle cx="450" cy="244" r="83" fill="#dcfce7"/><path d="M411 216l31-52 8 13-15 26h34l-10 17h-34l-14 24-15-9 15-26zm76 14h-16l-9-16h-26l10-17h27l-10-17 15-9 28 49zm-33 29l-8 14h-62v-18h48l-13-23h20l15 27z" fill="url(#app)"/>
+  <rect x="363" y="351" width="174" height="43" rx="13" fill="url(#app)"/><text x="450" y="378" fill="#fff" font-family="Arial,sans-serif" font-size="15" font-weight="700" text-anchor="middle">Scan an item</text>
+  <text x="450" y="420" fill="#64748b" font-family="Arial,sans-serif" font-size="12" text-anchor="middle">Sort smarter. Waste less.</text>
+  <path d="M127 318c0-53 43-96 96-96" fill="none" stroke="#16a34a" stroke-linecap="round" stroke-width="9"/><path d="M214 205l18 18-20 15" fill="none" stroke="#16a34a" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+  <text x="450" y="484" fill="#166534" font-family="Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="4">SMART RECYCLING CONCEPT</text>
+</svg>
