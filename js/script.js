@@ -2,7 +2,7 @@ document.documentElement.classList.remove("no-js");
 
 const education = [
   {
-    qualification: "Bachelor of Computer Science (Hons.) in Multimedia Computing",
+    qualification: "Bachelor of Computer Science (Hons.) Multimedia Computing",
     institution: "Universiti Teknologi MARA (UiTM) Shah Alam, Selangor",
     date: "Currently Pursuing",
     type: "Bachelor's Degree",
