@@ -1,4 +1,0 @@
-RESUME PLACEHOLDER — replace this file with your own resume PDF.
-
-This is deliberately not a real resume and contains no personal information.
-Update the download link in index.html when you add your resume.

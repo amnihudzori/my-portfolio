@@ -34,10 +34,11 @@ const skills = [
 ];
 
 const projects = [
+  { title: "Spendly - Personal Expense Tracker", subtitle: "UI/UX Design & Frontend Web Development", category: "Mobile", image: "assets/images/spendly.png", description: "A responsive personal finance web application designed to help users manage their money through income and expense tracking, wallet management, monthly budget monitoring and spending analytics.", technologies: ["React.js", "JavaScript", "Vite", "CSS", "Figma", "localStorage"], repository: "https://github.com/amnihudzori/Spendly.git", demo: "https://amnihudzori.github.io/Spendly/" },
   { title: "Recyclo – Smart Waste Classification with Upcycling Application", subtitle: "Smart Waste Classification and Upcycling App | Final Year Project", category: "Mobile", image: "assets/images/project-recyclo.svg", description: "An AI-powered mobile application developed for my Final Year Project, combining CNN-based waste classification, upcycling recommendations and recycling centre information to promote sustainable waste management.", technologies: ["Flutter", "Dart", "Firebase"], repository: "https://github.com/your-username/recyclo", demo: "" },
   { title: "SolarShare AI – Smart Community Solar Energy Management", subtitle: "Solar Energy Management Prototype for Sime Darby Property", category: "Web", image: "assets/images/project-solarshare.png", description: "A team-developed web prototype created for the Sime Darby Property Open Innovation Challenge 2026, exploring smart solar energy management through rooftop potential estimation, community participation and township planning.", technologies: ["JavaScript", "HTML", "CSS"], repository: "https://github.com/amnihudzori/solarshare-ai.git", demo: "https://amnihudzori.github.io/solarshare-ai/" },
-  { title: "Bakery Stall - 3D Modelling", subtitle: "Individual | Computer Graphics", category: "Design", image: "assets/images/project-bakery.png", description: "An individual 3D modelling project created using Blender, featuring a bakery stall with individually modelled donuts, pastries, and other bakery elements. The project focuses on object modelling, materials, lighting, and scene arrangement to create a detailed bakery environment.", technologies: ["Blender", "3D Modelling", "Computer Graphics"], repository: "https://github.com/amnihudzori/Blender-Projects/tree/3ae996759e54f45bd68d6126e77c9e93738e8692/meamo-bakery",demo: ""},
-  { title: "Event Space - 3D Modelling", subtitle: "Group Project | Computer Graphics",category: "Design", image: "assets/images/project-event-space.png", description: "A group 3D modelling project created using Blender, featuring an outdoor event space with various stalls, a performance stage, seating areas, decorative elements, and human figures. The project focuses on teamwork, object modelling, materials, lighting, and scene arrangement to create a lively event environment.", technologies: ["Blender", "3D Modelling", "Computer Graphics"], repository: "https://github.com/amnihudzori/Blender-Projects/tree/3ae996759e54f45bd68d6126e77c9e93738e8692/event-space", demo: ""},
+  { title: "Bakery Stall - 3D Modelling", subtitle: "Individual | Computer Graphics", category: "Design", image: "assets/images/project-bakery.png", description: "An individual 3D modelling project created using Blender, featuring a bakery stall with individually modelled donuts, pastries and other bakery elements. The project focuses on object modelling, materials, lighting, and scene arrangement to create a detailed bakery environment.", technologies: ["Blender", "3D Modelling", "Computer Graphics"], repository: "https://github.com/amnihudzori/Blender-Projects/tree/3ae996759e54f45bd68d6126e77c9e93738e8692/meamo-bakery",demo: ""},
+  { title: "Event Space - 3D Modelling", subtitle: "Group Project | Computer Graphics",category: "Design", image: "assets/images/project-event-space.png", description: "A group 3D modelling project created using Blender, featuring an outdoor event space with various stalls, a performance stage, seating areas, decorative elements and human figures. The project focuses on teamwork, object modelling, materials, lighting and scene arrangement to create a lively event environment.", technologies: ["Blender", "3D Modelling", "Computer Graphics"], repository: "https://github.com/amnihudzori/Blender-Projects/tree/3ae996759e54f45bd68d6126e77c9e93738e8692/event-space", demo: ""},
   { title: "Digi Run - 2D Platformer Game", subtitle: "Individual | Game Design & Development", category: "Game", image: "assets/images/project-platformer.png", description: "A colourful 2D platformer built with Construct 2, featuring desert-themed levels, floating platforms, interactive obstacles, enemies and collectibles.", technologies: ["HTML5","Construct 2", "Game development"], repository: "https://github.com/amnihudzori/Construct2-Games/tree/7be358ae6592d3a50d00c38f145bb0c709146090/Platformer%20Game", demo: "https://amnihudzori.github.io/Construct2-Games/Platformer%20Game/" },
   { title: "Mimimini – 2D Platformer Game", subtitle: "Individual | Game Design & Development", category: "Game", image: "assets/images/project-miniminigame.png", description: "A 2D platformer game built with Construct 2, featuring colourful environments, challenging obstacles, enemies and collectible gems.", technologies: ["HTML5","Construct 2", "Game development"], repository: "https://github.com/amnihudzori/Construct2-Games/tree/7be358ae6592d3a50d00c38f145bb0c709146090/Minimini", demo: "https://amnihudzori.github.io/Construct2-Games/Minimini/" },
   { title: "Aeroplane Controller – 3D Simulation Game", subtitle: "Individual | Virtual Reality", category: "Game", image: "assets/images/project-aeroplane.png", description: "A 3D Unity aeroplane simulation featuring continuous forward movement, keyboard-controlled pitching, and a following camera, demonstrating basic flight controls and object movement.", technologies: ["C#","Unity","Game development"], repository: "https://github.com/amnihudzori/Unity-Games/tree/94d7416178bfab6a3925d9aede7ed583a41caab2/plane-control", demo: "" },
@@ -49,13 +50,13 @@ const experience = [
     role: "Internship Trainee",
     organization: "Jama'atu Shaaba Consultant (JSC) Agency Takaful · Ipoh, Perak",
     date: "October 2024 — February 2025",
-    description: "Assisted with website development using Wix, created promotional posters for social media, and supported daily customer service operations. Gained hands-on experience in website management, digital content creation, and professional communication."
+    description: "Assisted with website development using Wix, created promotional posters for social media and supported daily customer service operations. Gained hands-on experience in website management, digital content creation and professional communication."
   },
   {
     role: "Secretary — Jawatankuasa Sukan Pelajar (JSP)",
     organization: "Universiti Teknologi MARA (UiTM) · Tapah Campus",
     date: "October 2023 — February 2024",
-    description: "Handled administrative documentation, prepared paperwork, and assisted in coordinating student sports and recreational activities. Worked with committee members to support events such as badminton tournaments, fitness programmes, and the JSP Colour Run 5KM."
+    description: "Handled administrative documentation, prepared paperwork and assisted in coordinating student sports and recreational activities. Worked with committee members to support events such as badminton tournaments, fitness programmes and the JSP Colour Run 5KM."
   },
   {
     role: "Secretariat",
@@ -73,7 +74,7 @@ const activities = [
   date: "October 2026",
   role: "Hackathon Participant",
   category: "Competition",
-  description: "Collaborated with teammates to develop SolarShare AI, a web-based prototype focused on community solar energy participation and township management. Explored practical solutions through application development, creative problem-solving, and teamwork.",
+  description: "Collaborated with teammates to develop SolarShare AI, a web-based prototype focused on community solar energy participation and township management. Explored practical solutions through application development, creative problem-solving and teamwork.",
   image: "assets/images/hackathon.png"
   },
   {
@@ -82,7 +83,7 @@ const activities = [
     date: "October 2026",
     role: "Attendee",
     category: "Cultural & University Event",
-    description: "Attended a royal musical theatre performance at Dewan Konsert Seri Budiman, UiTM Shah Alam. The performance explored the history and heritage of the Malay royal institution through music, storytelling, and performing arts.",
+    description: "Attended a royal musical theatre performance at Dewan Konsert Seri Budiman, UiTM Shah Alam. The performance explored the history and heritage of the Malay royal institution through music, storytelling and performing arts.",
     image: "assets/images/opereta-diraja.jpeg"
   },
   {
@@ -109,7 +110,7 @@ const activities = [
     date: "June 2024",
     role: "Committee Member",
     category: "Student Leadership",
-    description: "Supported the organization of a 5KM colour run through event preparation, documentation, and coordination with fellow committee members.",
+    description: "Supported the organization of a 5KM colour run through event preparation, documentation and coordination with fellow committee members.",
     image: "assets/images/colour-run.jpeg"
   },
   {
@@ -127,7 +128,7 @@ const activities = [
     date: "April 2024",
     role: "Organizing Committee (JSP)",
     category: "Student Leadership",
-    description: "Assisted the UiTM Perak Sports Unit in organizing its monthly Sporting Campus programme as part of the Jawatankuasa Sukan Pelajar (JSP). Helped manage student participation, coordinate activities, and support event operations to ensure the programme ran smoothly.",
+    description: "Assisted the UiTM Perak Sports Unit in organizing its monthly Sporting Campus programme as part of the Jawatankuasa Sukan Pelajar (JSP). Helped manage student participation, coordinate activities and support event operations to ensure the programme ran smoothly.",
     image: "assets/images/tabata.jpeg"
   },
   {
