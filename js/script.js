@@ -161,18 +161,21 @@ const activities = [
 ];
 
 const certifications = [
-  { name: "Participation in AI Unplugged With Krenovator", organization: "Faculty of Computer and Mathematical Sciences UiTM", date: "June 2025", image: "assets/images/aiunpluggled.jpg", url: "assets/images/aiunpluggled.jpg" },
-  { name: "Participation in Career Evolution : Adapting to the Digital Workforce", organization: "Faculty of Accountancy UiTM", date: "June 2025", image: "assets/images/careerevolution.jpg", url: "assets/images/careerevolution.jpg" },
+  { name: "Introduction to UI/UX Design", organization: "Coursera", date: "November 2026", image: "assets/images/uiux.png", url: "assets/certificates/UXUI_Design.pdf"},
+  { name: "Data Analytics Foundations: Turn Data intoInsights", organization: "Coursera", date: "November 2026", image: "assets/images/dataanaly.png", url: "assets/certificates/data_analytics.pdf"},
+  { name: "Understanding Digital Transformation", organization: "MyDIGITAL Corporation", date: "November 2026", image: "assets/images/udt.png", url: "assets/certificates/udt.pdf"},
   { name: "Google Ads Search Certification", organization: "Google Skillshop", date: "May 2026", image: "assets/images/google-ads-search.png", url: "assets/certificates/google-ads-search.pdf"},
   { name: "Google Certified Educator Level 1", organization: "Google for Education", date: "May 2026", image: "assets/images/googleeducert.png", url: "assets/certificates/google-certified-edu.pdf" },
   { name: "Gemini Certified University Student", organization: "Google for Education", date: "May 2026", image: "assets/images/geminicert.png", url: "assets/certificates/gemini-cert-stud.pdf" },
   { name: "Introduction to Generative AI", organization: "Kementerian Digital", date: "October 2026", image: "assets/images/generativeai.jpg", url: "assets/certificates/generative-ai.pdf" },
-  { name: "AI Nation 2030 : The MADANI Approach", organization: "Kementerian Digital", date: "June 2025", image: "assets/images/aination.jpg", url: "assets/certificates/ai-nation-2030.pdf" },
+  { name: "AI Nation 2030 : The MADANI Approach", organization: "Kementerian Digital", date: "October 2026", image: "assets/images/aination.jpg", url: "assets/certificates/ai-nation-2030.pdf" },
   { name: "CyberSAFE Untuk Rakyat", organization: "Kementerian Digital", date: "October 2026", image: "assets/images/cybersafe.jpg", url: "assets/certificates/cybersecurity.pdf" },
   { name: "Cloud Untuk Rakyat", organization: "Kementerian Digital", date: "October 2026", image: "assets/images/cloud.jpg", url: "assets/certificates/cloud-untuk-rakyat.pdf" },
   { name: "AI Safety", organization: "Kementerian Digital", date: "October 2026", image: "assets/images/aisafety.jpg", url: "assets/certificates/ai-safety.pdf" },
   { name: "AI Fluency", organization: "Kementerian Digital", date: "October 2026", image: "assets/images/aifluency.jpg", url: "assets/certificates/ai-fluency.pdf" },
-  { name: "Penilaian Garis Panduan Pengadaptasian Kecerdasan Buatan (AI) Sektor Awam (GPAISA)", organization: "Kementerian Digital", date: "October 2026", image: "assets/images/gpaisa.jpg", url: "assets/certificates/ai-sektor-awam-gpaisa.pdf" }
+  { name: "Penilaian Garis Panduan Pengadaptasian Kecerdasan Buatan (AI) Sektor Awam (GPAISA)", organization: "Kementerian Digital", date: "October 2026", image: "assets/images/gpaisa.jpg", url: "assets/certificates/ai-sektor-awam-gpaisa.pdf" },
+  { name: "Participation in AI Unplugged With Krenovator", organization: "Faculty of Computer and Mathematical Sciences UiTM", date: "June 2025", image: "assets/images/aiunpluggled.jpg", url: "assets/images/aiunpluggled.jpg" },
+  { name: "Participation in Career Evolution : Adapting to the Digital Workforce", organization: "Faculty of Accountancy UiTM", date: "June 2025", image: "assets/images/careerevolution.jpg", url: "assets/images/careerevolution.jpg" },
 
 ];
 
